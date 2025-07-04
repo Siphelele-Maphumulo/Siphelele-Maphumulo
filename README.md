@@ -29,8 +29,10 @@ Graduated **cum laude** and received the **Vice Chancellor’s Award** for being
 </p>
 </p>
 🌐 Socials
-<p align="left"> <a href="https://github.com/Siphelele-Maphumulo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/siphelele-maphumulo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> 
-<p align="left"> <a href="https://siphelele-maphumulo.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://github.com/Siphelele-Maphumulo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/siphelele-maphumulo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>  <a href="https://siphelele-maphumulo.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+<p align="left">
+
+
 ## 📚 Education
 
 🎓 **Advanced Diploma in ICT - Application Development** — *Mangosuthu University of Technology (2024)*  
@@ -88,8 +90,5 @@ Feel free to reach out for collaboration, freelance work, or a good tech convers
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siphelele-Maphumulo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siphelele-Maphumulo&layout=compact&theme=radical)
-
 📊 GitHub Stats
-<a href="http://www.github.com/Siphelele-Maphumulo"> <img src="https://github-readme-stats.vercel.app/api?username=Siphelele-Maphumulo&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Siphelele's GitHub stats" /> </a> <a href="http://www.github.com/Siphelele-Maphumulo"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siphelele-Maphumulo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Siphelele's GitHub streak" /> </a> <a href="https://github.com/Siphelele-Maphumulo"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siphelele-Maphumulo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Siphelele's Top Languages" /> </a>
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Siphelele-Maphumulo&show_icons=true&count_private=true&theme=radical" alt="Siphelele's GitHub Stats" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siphelele-Maphumulo&theme=radical&hide_border=false" alt="Siphelele's GitHub Streak" /> </td> </tr> </table> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siphelele-Maphumulo&layout=compact&theme=radical" alt="Siphelele's Top Languages" /> </p>
