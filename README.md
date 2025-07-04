@@ -3,7 +3,7 @@
 
 🎓 **Junior Software Developer** | 💡 Passionate about solving real-world problems through code  
 📍 Durban, South Africa | 📧 [Siphelelemaphumulo@gmail.com](mailto:Siphelelemaphumulo@gmail.com)  
-🌐 [Portfolio Website](https://siphelele-maphumulo.github.io/Portfolio2/) | 🧑‍💻 [GitHub](https://github.com/Siphelele-Maphumulo)
+🌐 [Portfolio Website](https://siphelele-maphumulo.github.io/Portfolio/) | 🧑‍💻 [GitHub](https://github.com/Siphelele-Maphumulo)
 
 ---
 
@@ -17,8 +17,42 @@ Graduated **cum laude** and received the **Vice Chancellor’s Award** for being
 
 ## 🛠️ Tech Stack & Skills
 
-**Languages & Frameworks:**  
-Java • Python • PHP • JavaScript • C# • HTML/CSS • Node.js • Angular • React • Vue • Ionic • Spring Boot • ASP.NET MVC
+**Full Stack Developer:**
+
+**Frontend:**  
+Basics ->> • HTML • Css • JavaScript 
+Frameworks ->> • Angular • Vue • React • Webpack • Ionic 
+Styles ->> • Bootstrap • Material UI • Taliwind • Prettier
+
+**Backend:**
+Technology ->> • Python • Node.js • Java • ASP.NET
+Basics ->> • HTML • Css • JavaScript 
+Frameworks ->> •  Express JS • Django • Spring Boot • Laravel
+
+**Database:**  
+Relational ->> • MySQL • Oracle • MS SQL • PostgreSQL • MariaDB
+Non-Relational ->> • MongoDB • RethinkDB • GraphQL 
+
+**Devops:**  
+Infrastructure ->> •  AWS • Azure • Google Workspace • Firebase Studio
+Automation ->> •  Jenkins •  Docker • Kubernetes
+
+**Mobile App:**  
+Cross Platform ->> • React Native • Ionic • xamarin
+Andriod ->> • Java • Kotlin • SDK 
+IOS ->> •  Swift
+
+**Version Controllers:**  
+• Git • GitHub • Gitlab • BitBucket • Slack
+
+**API's:**  
+• REST • JSON • SOAP • GSON
+
+**Testing:**  
+• Integration Testing • Unit Testing • Functional Testing
+
+**Programming Languages:**  
+• C# • JAVA • Python • PHP • JavaScript
 
 **Tools & Technologies:**  
 MySQL • PostgreSQL • Firebase • Docker • Git/GitHub • NetBeans • Tomcat • GlassFish • RESTful APIs • AWS • Azure
@@ -38,7 +72,7 @@ Agile • Project Management • Software Testing (manual & automated) • Techn
 
 ## 🧪 Projects
 
-### 🔹 [Online Testing Web Application](https://online-test-web-application.onrender.com)
+### 🔹 [[Online Testing Web Application](https://online-test-web-application-7mu3.onrender.com))
 > A web platform for teachers to create and manage tests. Used in rural schools with offline capability.  
 **Tech Used:** HTML, CSS, Java, JSP, MySQL, Tomcat  
 ![Screenshot](https://raw.githubusercontent.com/Siphelele-Maphumulo/Online-Test-Web-Application/refs/heads/main/Screenshot.png)
@@ -48,14 +82,14 @@ Agile • Project Management • Software Testing (manual & automated) • Techn
 ### 🔹 [Virtual Incubation Web App](http://virtualincubation.infinityfreeapp.com)
 > Built to support entrepreneurs in registering businesses, applying for funding, and accessing mentorship.  
 **Tech Used:** PHP, JavaScript, HTML/CSS, MySQL  
-![Screenshot](https://siphelele-maphumulo.github.io/Portfolio2/assets/img/incubation.png)
+![Screenshot](https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/incubation.png?raw=true)
 
 ---
 
 ### 🔹 [Umlazi Discount Hardware App](https://siphelele-maphumulo.github.io/Hardware/)
 > A mobile shopping app for a local hardware store — used to streamline customer orders and boost engagement.  
 **Tech Used:** Angular, Ionic, TypeScript, Firebase  
-![Screenshot](https://siphelele-maphumulo.github.io/Hardware/assets/img/hardware.png)
+![Screenshot](https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/hardware.png?raw=true)
 
 ---
 
@@ -77,9 +111,9 @@ Agile • Project Management • Software Testing (manual & automated) • Techn
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/siphelele-maphumulo-52a787355/)
 - [Email](mailto:Siphelelemaphumulo@gmail.com)
-- [Portfolio](https://siphelele-maphumulo.github.io/Portfolio2/)
+- [Portfolio](https://siphelele-maphumulo.github.io/Portfolio/)
 
 Feel free to reach out for collaboration, freelance work, or a good tech conversation. 🚀
 
