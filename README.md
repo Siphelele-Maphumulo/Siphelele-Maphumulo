@@ -8,7 +8,7 @@
 <!-- Replace below with your actual handles -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/siphelele-maphumulo-52a787355/)
 ---
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Welcome" alt="Victor Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Welcome To My World" alt="Victor Banner"/>
 ---
 
 ## 🧠 About Me
