@@ -20,13 +20,13 @@ I'm a determined and self-motivated IT graduate who transformed challenges into 
 🚀 Mission: Building innovative software solutions that solve real-world problems
 <br clear="left"/>
 
-⚡ Technical Arsenal
+⚡ Technical Supporter
 <div align="center">
-🎨 Frontend Mastery
+🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,tailwind,bootstrap,materialui,figma,xd" alt="Frontend Skills" />
 </p>
-⚙️ Backend & Database Expertise
+⚙️ Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,java,dotnet,mysql,postgresql,mongodb,firebase,supabase" alt="Backend Skills" />
 </p>
