@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi, I'm Siphelele Audacious Maphumulo
 <div align="center">
 </div>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🚀 Elite Full Stack Developer | 💡 Technical Innovation Specialist
-📍 Durban, South Africa | 📧 Siphelelemaphumulo@gmail.com | 📱 068 67 64 623
 
 <div align="center">
 🌐 Connect With Me
 </div>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+🚀 Elite Full Stack Developer | 💡 Technical Innovation Specialist
+📍 Durban, South Africa | 📧 Siphelelemaphumulo@gmail.com | 📱 068 67 64 623
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
