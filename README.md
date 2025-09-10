@@ -2,14 +2,29 @@
 <div align="center">
 </div>
 
-<div align="center">
-🌐 Connect With Me
-</div>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🚀 Full Stack Developer | 💡 Technical Innovation
-📍 Durban, South Africa | 📧 Siphelelemaphumulo@gmail.com | 📱 068 67 64 623
-
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+
+<!-- Profile Section -->
+<table align="center">
+  <tr>
+    <td>
+      <div align="center">
+        <h2>🌐 Connect With Me</h2>
+        <p>
+          🚀 <b>Full Stack Developer</b> | 💡 Technical Innovation <br>
+          📍 Durban, South Africa <br>
+          📧 <a href="mailto:siphelelemaphumulo@gmail.com">Siphelelemaphumulo@gmail.com</a> <br>
+          📱 068 67 64 623
+        </p>
+      </div>
+    </td>
+    <td>
+      <img alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+    </td>
+  </tr>
+</table>
+
 
 🎯 About Me
 <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px">
