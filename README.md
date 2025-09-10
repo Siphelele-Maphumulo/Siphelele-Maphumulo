@@ -5,6 +5,10 @@
 📍 Durban, South Africa | 📧 [Siphelelemaphumulo@gmail.com](mailto:Siphelelemaphumulo@gmail.com)  
 🌐 [Portfolio Website](https://siphelele-maphumulo.github.io/Portfolio/) | 🧑‍💻 [GitHub](https://github.com/Siphelele-Maphumulo)
 
+
+---
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Welcome" alt="Victor Banner"/>
+### 🛠️ Tech Stack
 ---
 
 ## 🧠 About Me
