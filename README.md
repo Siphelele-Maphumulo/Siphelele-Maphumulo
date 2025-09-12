@@ -1,3 +1,7 @@
+
+
+<!-- Header Banner -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
     <picture>
         <source 
             srcset="https://media.giphy.com/media/gDipFXZvaUTbn3HfuC/giphy.gif"
@@ -15,10 +19,6 @@
             height="200"
         />
     </picture>
-
-<!-- Header Banner -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
-
 <!-- Profile Section -->
 <table align="center">
   <tr>
