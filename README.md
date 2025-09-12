@@ -15,8 +15,8 @@
             src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" 
             alt="Gmail-icon" 
             align="right"
-            width="300" 
-            height="200"
+            width="150" 
+            height="100"
         />
     </picture>
 <!-- Profile Section -->
