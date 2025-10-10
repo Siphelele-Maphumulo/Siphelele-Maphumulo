@@ -91,13 +91,13 @@ I'm a determined and self-motivated IT graduate who transformed challenges into 
   
   <br/>
   
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sipho-Mtshali&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/Sipho-Mtshali)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Siphelele-Maphumulo&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/Siphelele-Maphumulo)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sipho-Mtshali&color=ff6b6b&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sipho-Mtshali)
-[![Followers](https://img.shields.io/github/followers/Sipho-Mtshali?color=79ff97&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)](https://github.com/Sipho-Mtshali?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Sipho-Mtshali?color=ffdd44&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white)](https://github.com/Sipho-Mtshali?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Siphelele-Maphumulo&color=ff6b6b&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Siphelele-Maphumulo)
+[![Followers](https://img.shields.io/github/followers/Siphelele-Maphumulo?color=79ff97&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)](https://github.com/Siphelele-Maphumulo?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Siphelele-Maphumulo?color=ffdd44&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white)](https://github.com/Siphelele-Maphumulo?tab=repositories)
 
 </div>
 
