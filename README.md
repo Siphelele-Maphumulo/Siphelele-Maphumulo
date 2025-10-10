@@ -83,6 +83,34 @@ I'm a determined and self-motivated IT graduate who transformed challenges into 
 </p>
 </div>
 
+## 🏆 GITHUB ACHIEVEMENTS & RECOGNITION
+
+<div align="center">
+  
+  🎯 My coding journey in numbers and achievements!
+  
+  <br/>
+  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sipho-Mtshali&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/Sipho-Mtshali)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Sipho-Mtshali&color=ff6b6b&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sipho-Mtshali)
+[![Followers](https://img.shields.io/github/followers/Sipho-Mtshali?color=79ff97&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)](https://github.com/Sipho-Mtshali?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Sipho-Mtshali?color=ffdd44&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white)](https://github.com/Sipho-Mtshali?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=120&section=footer&fontSize=20&fontColor=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=✨+%22Innovating+education%2C+one+line+of+code+at+a+time%22+✨;🚀+Co-Founder+%7C+Developer+%7C+Educator+%7C+Visionary+🚀;🌍+Building+tomorrow's+tech+leaders+from+Durban!+🌍;💡+Ready+to+collaborate%3F+Let's+create+magic+together!+💡" alt="Footer Typing Animation" />
+</div>
+
 📈 GitHub Analytics
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Siphelele-Maphumulo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="Siphelele's GitHub Stats" />
