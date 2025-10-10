@@ -96,7 +96,7 @@ I'm a determined and self-motivated IT graduate who transformed challenges into 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Siphelele-Maphumulo&color=ff6b6b&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Siphelele-Maphumulo)
-[![Followers](https://img.shields.io/github/followers/Siphelele-Maphumulo?color=79ff97&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)](https://github.com/Siphelele-Maphumulo?tab=followers)
+[![Followers](https://img.shields.io/github/followers/Siphelele-Maphumulo?color=79ff97&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)](https://github.com/Sipho-Mtshali?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Siphelele-Maphumulo?color=ffdd44&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white)](https://github.com/Siphelele-Maphumulo?tab=repositories)
 
 </div>
