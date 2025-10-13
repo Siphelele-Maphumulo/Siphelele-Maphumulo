@@ -1,5 +1,5 @@
 
-<div align="center"># 🌟 Siphelele Maphumulo | Full-Stack Wizard 🚀</div>
+
 
 <div align="center">
 
