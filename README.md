@@ -380,16 +380,39 @@ const siphelele = {
 
 <div align="center">
 
-<!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Siphelele&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&layout=compact" alt="WakaTime"/>
+  <!-- 🕒 WakaTime Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Siphelele&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&layout=compact" 
+    alt="WakaTime Stats" 
+    width="450"
+  />
 
-<!-- Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+  <br><br>
 
-### 📅 Contribution Heatmap
-<!-- This would be your actual contribution calendar -->
+  <!-- 🐍 Snake Animation -->
+  <img 
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    alt="GitHub Snake Animation" 
+    width="600"
+  />
+
+  <br><br>
+
+  <!-- 📈 Chartist GitHub Animation -->
+  <img 
+    src="https://camo.githubusercontent.com/40b6209e3cbe266ed0496522c9a6b0511520aa30325de717b2f67f585277519a/68747470733a2f2f7261772e6769746875622e636f6d2f63686172746973742d6a732f63686172742f6d61696e2f776562736974652f7374617469632f696d672f63686172746973742d6775792e676966" 
+    alt="Chartist Animation" 
+    width="600"
+  />
+
+  <br><br>
+
+  <!-- 📅 Contribution Heatmap -->
+  <h3>📅 Contribution Heatmap</h3>
+  <!-- You can embed your GitHub contribution calendar here if desired -->
 
 </div>
+
 
 ---
 
