@@ -376,41 +376,6 @@ const siphelele = {
 
 ---
 
-## 📈 Coding Activity & Stats
-
-<div align="center">
-
-  <!-- 🕒 WakaTime Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Siphelele&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&layout=compact" 
-    alt="WakaTime Stats" 
-    width="450"
-  />
-
-  <br><br>
-
-  <!-- 🐍 Snake Animation -->
-  <img 
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
-    alt="GitHub Snake Animation" 
-    width="600"
-  />
-
-  <br><br>
-
-  <!-- 📈 Chartist GitHub Animation -->
-  <img 
-    <img width="644" height="428" alt="image" src="https://github.com/user-attachments/assets/e6509c43-cb55-4a70-b033-69bd7ed30cbc" />
-
-
-  <br><br>
-
-  <!-- 📅 Contribution Heatmap -->
-  <h3>📅 Contribution Heatmap</h3>
-  <!-- You can embed your GitHub contribution calendar here if desired -->
-
-</div>
-
 
 ---
 
