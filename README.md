@@ -175,8 +175,8 @@ const siphelele = {
 
 <!-- Achievement Badges -->
 <p>
-  <img src="https://img.shields.io/badge/🏆_Vice_Chancellor's_Award-2024-gold?style=for-the-badge" alt="Award"/>
-  <img src="https://img.shields.io/badge/🥇_Cum_Laude_Graduate-2024-success?style=for-the-badge" alt="Graduate"/>
+  <img src="https://img.shields.io/badge/🏆_Vice_Chancellor's_Award-2023-gold?style=for-the-badge" alt="Award"/>
+  <img src="https://img.shields.io/badge/🥇_Cum_Laude_Graduate-2023-success?style=for-the-badge" alt="Graduate"/>
   <img src="https://img.shields.io/badge/👨‍🏫_200+_Students_Mentored-Teaching-blue?style=for-the-badge" alt="Mentoring"/>
   <img src="https://img.shields.io/badge/⭐_Tutor_of_the_Month-Excellence-blueviolet?style=for-the-badge" alt="Tutor"/>
 </p>
@@ -196,7 +196,7 @@ const siphelele = {
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/🏆_Advanced_Diploma-ICT_Application_Development-00D4FF?style=for-the-badge" alt="Diploma"/><br/>
 <b>Mangosuthu University of Technology</b><br/>
-2024 | Vice Chancellor's Award Winner 🥇
+2023 | Vice Chancellor's Award Winner 🥇
 </td>
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/🎓_Diploma-Software_Development-FF6B35?style=for-the-badge" alt="Diploma"/><br/>
