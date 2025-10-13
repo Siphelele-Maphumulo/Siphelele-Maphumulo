@@ -7,10 +7,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Innovation%20Meets%20Excellence&descAlignY=55&descSize=18"/>
 
 <!-- Dynamic Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👋+Greetings!+I'm+Siphelele+Maphumulo;🏆+Vice+Chancellor's+Award+Winner;💻+Full-Stack+Developer+%7C+Tech+Innovator;🌍+Building+The+Future+From+Durban%2C+South+Africa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=👋+Greetings!+I'm+Siphelele+Maphumulo;🏆+Vice+Chancellor's+Award+Winner;💻+Full-Stack+Developer+%7C+Tech+Innovator;🌍+Building+The+Future+From+Durban%2C+South+Africa)](https://git.io/typing-svg)
 
 <!-- Animated GIF -->
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="400" alt="Coding Animation"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="300" alt="Coding Animation"/>
 
 <!-- Social Badges with Glow Effect -->
 <p align="center">
