@@ -400,10 +400,8 @@ const siphelele = {
 
   <!-- 📈 Chartist GitHub Animation -->
   <img 
-    src="https://camo.githubusercontent.com/40b6209e3cbe266ed0496522c9a6b0511520aa30325de717b2f67f585277519a/68747470733a2f2f7261772e6769746875622e636f6d2f63686172746973742d6a732f63686172742f6d61696e2f776562736974652f7374617469632f696d672f63686172746973742d6775792e676966" 
-    alt="Chartist Animation" 
-    width="600"
-  />
+    <img width="644" height="428" alt="image" src="https://github.com/user-attachments/assets/e6509c43-cb55-4a70-b033-69bd7ed30cbc" />
+
 
   <br><br>
 
