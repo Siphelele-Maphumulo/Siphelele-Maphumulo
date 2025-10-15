@@ -37,11 +37,15 @@
 
 </div>
 
-### 🏃‍♂️ Progress 
+---
+
+### 🏃‍♂️ My Progress 
+
 [![CodeTime Badge](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32365)](https://codetime.dev)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/65bcf4550c548122837e7870?variant=dark)]([https://roadmap.sh](https://roadmap.sh/r/full-stack-e0wj0
-))
+### 🗺️ My Full-Stack Developer Roadmap  
+[![roadmap.sh](https://roadmap.sh/card/wide/full-stack-e0wj0?variant=dark)](https://roadmap.sh/r/full-stack-e0wj0)
+
 ---
 
 ## 🎯 About Me: From Waiter to Award-Winning Developer
