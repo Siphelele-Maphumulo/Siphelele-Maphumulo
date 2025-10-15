@@ -44,7 +44,10 @@
 [![CodeTime Badge](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32365)](https://codetime.dev)
 
 ### 🗺️ My Full-Stack Developer Roadmap  
-<iframe src="https://roadmap.sh/r/embed?id=68ef841d17747caa5ac244f3" width="100%" height="500px" frameBorder="0"></iframe>
+### 🗺️ My Full-Stack Developer Roadmap
+
+[![roadmap.sh](https://roadmap.sh/card/wide/full-stack-e0wj0?variant=dark)](https://roadmap.sh/r/full-stack-e0wj0)
+
 
 ---
 
