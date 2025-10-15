@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Innovation%20Meets%20Excellence&descAlignY=55&descSize=18"/>
 
 <!-- Dynamic Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=👋+Greetings!+I'm+Siphelele+Maphumulo;🏆+Vice+Chancellor's+Award+Winner;💻+Full-Stack+Developer+%7C+Tech+Innovator;🌍+Building+The+Future+From+Durban%2C+South+Africa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=👋+Greetings!+I'm+Siphelele+Maphumulo;🏆+Vice+Chancellor's+Award+Winner;💻+Full-Stack+Developer+%7C+Tech+Innovator;🌍+I+Break+and+Learn+things+online.)](https://git.io/typing-svg)
 
 <!-- Animated GIF -->
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="500" alt="Coding Animation"/>
@@ -36,6 +36,11 @@
 </p>
 
 </div>
+
+### 🏃‍♂️ Progress 
+[![CodeTime Badge](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32365)](https://codetime.dev)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/65bcf4550c548122837e7870?variant=dark)](https://roadmap.sh)
 
 ---
 
