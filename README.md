@@ -43,12 +43,6 @@
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32365)](https://codetime.dev)
 
-### 🗺️ My Full-Stack Developer Roadmap  
-### 🗺️ My Full-Stack Developer Roadmap
-
-[![roadmap.sh](https://roadmap.sh/card/wide/full-stack-e0wj0?variant=dark)](https://roadmap.sh/r/full-stack-e0wj0)
-
-
 ---
 
 ## 🎯 About Me: From Waiter to Award-Winning Developer
