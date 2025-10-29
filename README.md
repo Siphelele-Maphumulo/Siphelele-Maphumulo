@@ -63,19 +63,6 @@
 
 ---
 
-<!-- Collapsible Hackatime Setup -->
-
-# Put this in your ~/.wakatime.cfg file
-
-[settings]
-api_url = https://hackatime.hackclub.com/api/hackatime/v1
-api_key = ef94dee7-4d92-4ed4-a14c-968e56ce3e13
-heartbeat_rate_limit_seconds = 30
-
-# Any other wakatime configs you want to add:
-# https://github.com/wakatime/wakatime-cli/blob/develop/USAGE.md#ini-config-file
-
-
 ## 🎯 About Me: From Waiter to Award-Winning Developer
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
