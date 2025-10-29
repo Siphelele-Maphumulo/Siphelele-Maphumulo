@@ -39,11 +39,45 @@
 
 ---
 
-### 🏃‍♂️ My Progress 
+<!-- Fancy Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
 
+### 🏃‍♂️ My Progress  
+
+<div align="center">
+
+<!-- CodeTime Badge -->
 [![CodeTime Badge](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32365)](https://codetime.dev)
 
+<!-- Animated Subheader -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Tracking+Every+Line+of+Code;⚡+Hackatime+%26+CodeTime+Powered;📊+Languages,+Projects,+and+More!)](https://git.io/typing-svg)
+
+<!-- Hackatime Stats -->
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7078&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon" alt="Hackatime Stats" width="650"/>
+
+<!-- Hackatime Badge -->
+<br>
+<img src="https://hackatime-badge.hackclub.com/U091LDVN491/Maphumulo-Gallery" alt="Hackatime Badge" width="400"/>
+
+</div>
+
 ---
+
+<!-- Collapsible Hackatime Setup -->
+<details>
+  <summary><b>⚙️ Hackatime Configuration (Click to View)</b></summary>
+
+```ini
+# Put this in your ~/.wakatime.cfg file
+
+[settings]
+api_url = https://hackatime.hackclub.com/api/hackatime/v1
+api_key = ef94dee7-4d92-4ed4-a14c-968e56ce3e13
+heartbeat_rate_limit_seconds = 30
+
+# Any other wakatime configs you want to add:
+# https://github.com/wakatime/wakatime-cli/blob/develop/USAGE.md#ini-config-file
+
 
 ## 🎯 About Me: From Waiter to Award-Winning Developer
 
