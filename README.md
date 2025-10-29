@@ -64,10 +64,7 @@
 ---
 
 <!-- Collapsible Hackatime Setup -->
-<details>
-  <summary><b>⚙️ Hackatime Configuration (Click to View)</b></summary>
 
-```ini
 # Put this in your ~/.wakatime.cfg file
 
 [settings]
