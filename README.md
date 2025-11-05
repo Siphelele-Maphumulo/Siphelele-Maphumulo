@@ -307,7 +307,8 @@ const siphelele = {
 
 ### 📱 Umlazi Discount Hardware Mobile App
 
-<img src="https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/hardware.png?raw=true" width="700px" alt="Hardware App"/>
+<img src="https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/hardware-preview.png?raw=true" width="700px" alt="Hardware App"/>
+
 
 **🎯 Mission:** Transforming local retail with a seamless mobile commerce experience
 
