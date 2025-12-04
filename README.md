@@ -57,7 +57,7 @@
 
 <!-- Hackatime Badge -->
 <br>
-<img src="https://hackatime-badge.hackclub.com/U091LDVN491/Maphumulo-Gallery" alt="Hackatime Badge" width="400"/>
+
 
 </div>
 
