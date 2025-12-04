@@ -58,7 +58,7 @@
 <!-- Hackatime Badge -->
 <br>
 
-<img src="https://hackatime-badge.hackclub.com/U091LDVN491/environmental-health-wil-frontend" alt="Hackatime Badge" width="400"/>
+<img src="https://hackatime-badge.hackclub.com/U091LDVN491/environmental-health-wil-frontend" alt="environmental-health-wil-frontend Badge" width="200"/>
 <img src="https://hackatime-badge.hackclub.com/U091LDVN491/House-Music-Kitchen-main" alt="Hackatime Badge" width="400"/>
 </div>
 
