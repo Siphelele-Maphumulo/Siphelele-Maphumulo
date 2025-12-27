@@ -4,13 +4,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Innovation%20Meets%20Excellence&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Innovation%20Meets%20Excellence&descAlignY=55&descSize=18"  alt="Auto-playing stats" />
 
 <!-- Dynamic Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=👋+Greetings!+I'm+Siphelele+Maphumulo;🏆+Vice+Chancellor's+Award+Winner;💻+Full-Stack+Developer+%7C+Tech+Innovator;🌍+I+Break+and+Learn+things+online.)](https://git.io/typing-svg)
 
 <!-- Animated GIF -->
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="500" alt="Coding Animation"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="500" alt="Coding Animation" alt="Auto-playing stats" />
 
 <!-- Social Badges with Glow Effect -->
 <p align="center">
@@ -40,7 +40,7 @@
 ---
 
 <!-- Fancy Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"  alt="Auto-playing stats" />
 
 ### 🏃‍♂️ My Progress  
 
@@ -53,15 +53,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Tracking+Every+Line+of+Code;⚡+Hackatime+%26+CodeTime+Powered;📊+Languages,+Projects,+and+More!)](https://git.io/typing-svg)
 
 <!-- Hackatime Stats -->
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7078&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon" alt="Hackatime Stats" width="650"/>
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7078&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon" alt="Hackatime Stats" width="650"  alt="Auto-playing stats" />
 
 <!-- Hackatime Badge -->
 <br>
 
-<img src="https://hackatime-badge.hackclub.com/U091LDVN491/environmental-health-wil-frontend" alt="Hackatime Badge" width="50"/>
-<img src="https://hackatime-badge.hackclub.com/U091LDVN491/House-Music-Kitchen-main" alt="Hackatime Badge" width="50"/>
-<img src="https://hackatime-badge.hackclub.com/U091LDVN491/backend" alt="Hackatime Badge" width="50"/>
-<img src="https://hackatime-badge.hackclub.com/U091LDVN491/try" alt="Hackatime Badge" width="50"/>
+<img src="https://hackatime-badge.hackclub.com/U091LDVN491/environmental-health-wil-frontend" alt="Hackatime Badge" width="50"  alt="Auto-playing stats" />
+<img src="https://hackatime-badge.hackclub.com/U091LDVN491/House-Music-Kitchen-main" alt="Hackatime Badge" width="50"  alt="Auto-playing stats" />
+<img src="https://hackatime-badge.hackclub.com/U091LDVN491/backend" alt="Hackatime Badge" width="50"  alt="Auto-playing stats" />
+<img src="https://hackatime-badge.hackclub.com/U091LDVN491/try" alt="Hackatime Badge" width="50"  alt="Auto-playing stats" />
 </div>
 
 ---
