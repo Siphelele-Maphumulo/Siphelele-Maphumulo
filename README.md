@@ -368,7 +368,7 @@ Connected **150+ entrepreneurs** with mentors, funding opportunities, and resour
 ### 📱 Umlazi Discount Hardware Mobile App
 
 <!-- Clickable Project Image -->
-<a href="https://online-test-web-application-7mu3.onrender.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://siphelele-maphumulo.github.io/Hardware/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/hardware-preview.png?raw=true"
        width="250"
        alt="Umlazi Discount Hardware Mobile App – Live Demo"/>
@@ -379,7 +379,7 @@ Connected **150+ entrepreneurs** with mentors, funding opportunities, and resour
 ### 🚀 Live Demo & Source Code
 
 <p align="center">
-  <a href="https://online-test-web-application-7mu3.onrender.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://siphelele-maphumulo.github.io/Hardware/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00D4FF?style=for-the-badge"
          alt="Live Demo"/>
   </a>
