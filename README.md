@@ -252,25 +252,20 @@ const siphelele = {
 
 ### 🌟 Coding Made Easy (Code SA Institute)
 
-<!-- Clickable Project Image -->
-<a href="https://codingmadeeasy.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/Online-Test-Web-Application/refs/heads/main/Screenshot.png"
-       width="700"
-       alt="Coding Made Easy – Live Website"/>
-</a>
-
 ---
 
 ### 🚀 Live Website & Source Code
 
 <p align="center">
-  <a href="https://codingmadeeasy.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🚀_Live_Website-Visit_Now-00D4FF?style=for-the-badge"
-         alt="Live Website"/>
-  </a>
+
   <a href="https://github.com/Siphelele-Maphumulo" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/refs/heads/main/assets/Code%20SA.png"
          alt="GitHub Contribution"/>
+  </a>
+
+<a href="https://codingmadeeasy.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🚀_Live_Website-Visit_Now-00D4FF?style=for-the-badge"
+         alt="Live Website"/>
   </a>
 </p>
 
