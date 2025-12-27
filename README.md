@@ -282,7 +282,7 @@ const siphelele = {
 
 ### 💼 Virtual Incubation Web Platform
 
-<!-- Clickable Image (Opens Live Demo in New Tab) -->
+<!-- Clickable Project Image -->
 <a href="https://virtualincubation.infinityfreeapp.com" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/incubation.png?raw=true"
        width="700"
@@ -291,9 +291,18 @@ const siphelele = {
 
 ---
 
-### 🚀 Live Demo
-👉 **Visit the live application:**  
-🔗 https://virtualincubation.infinityfreeapp.com
+### 🚀 Live Demo & Source Code
+
+<p align="center">
+  <a href="https://virtualincubation.infinityfreeapp.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00D4FF?style=for-the-badge"
+         alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Siphelele-Maphumulo/VIRTUAL-INCUBATION" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"
+         alt="Source Code"/>
+  </a>
+</p>
 
 ---
 
@@ -324,14 +333,7 @@ Connected **150+ entrepreneurs** with mentors, funding opportunities, and resour
 - ✅ Progress tracking dashboard  
 
 ---
-<p align="center">
-  <a href="https://virtualincubation.infinityfreeapp.com" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00D4FF?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Siphelele-Maphumulo/VIRTUAL-INCUBATION" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+
 
 
 ### 📱 Umlazi Discount Hardware Mobile App
