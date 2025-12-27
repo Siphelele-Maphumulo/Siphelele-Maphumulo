@@ -10,7 +10,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=👋+Greetings!+I'm+Siphelele+Maphumulo;🏆+Vice+Chancellor's+Award+Winner;💻+Full-Stack+Developer+%7C+Tech+Innovator;🌍+I+Break+and+Learn+things+online.)](https://git.io/typing-svg)
 
 <!-- Animated GIF -->
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="500" alt="Coding Animation" alt="Auto-playing stats" />
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+     width="400"
+     height="500"
+     alt="Auto-playing Coding Animation" />
+
 
 <!-- Social Badges with Glow Effect -->
 <p align="center">
