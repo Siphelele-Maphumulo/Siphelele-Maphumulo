@@ -282,7 +282,7 @@ const siphelele = {
 
 ### 💼 Virtual Incubation Web Platform
 
-<img src="https://dash.infinityfree.com/accounts/if0_40723633/domains/virtualincubation.infinityfreeapp.com" width="700px" alt="Virtual Incubation"/>
+<img src="https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/incubation.png?raw=true" width="700px" alt="Virtual Incubation"/>
 
 **🎯 Mission:** Empowering entrepreneurs with a comprehensive business support ecosystem
 
