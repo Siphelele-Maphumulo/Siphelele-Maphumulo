@@ -253,30 +253,59 @@ const siphelele = {
 <div align="center">
 
 ### 🌟 Online Testing Web Application
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Siphelele-Maphumulo/Online-Test-Web-Application)
 
-<img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/Online-Test-Web-Application/refs/heads/main/Screenshot.png" width="700px" alt="Online Testing App"/>
+<!-- Clickable Project Image -->
+<a href="https://online-test-web-application-7mu3.onrender.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/Online-Test-Web-Application/refs/heads/main/Screenshot.png"
+       width="700"
+       alt="Online Testing Web Application – Live Demo"/>
+</a>
 
-**🎯 Mission:** Revolutionizing education in rural schools with an offline-capable testing platform
+---
 
-**💡 Impact:** Empowering teachers to create, manage, and deploy tests seamlessly without internet dependency
+### 🚀 Live Demo & Source Code
 
-**🛠️ Tech Stack:**
+<p align="center">
+  <a href="https://online-test-web-application-7mu3.onrender.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00D4FF?style=for-the-badge"
+         alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Siphelele-Maphumulo/Online-Test-Web-Application" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"
+         alt="Source Code"/>
+  </a>
+</p>
+
+---
+
+</div>
+
+**🎯 Mission:**  
+Revolutionizing education in rural schools with an offline-capable testing platform.
+
+**💡 Impact:**  
+Empowering teachers to create, manage, and deploy tests seamlessly without internet dependency.
+
+---
+
+### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" alt="JSP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Tomcat"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Apache Tomcat"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-**✨ Key Features:**
-- ✅ Offline test creation and management
-- ✅ Automated grading system
-- ✅ Student performance analytics
-- ✅ Question bank management
-- ✅ Export results to Excel
+---
+
+### ✨ Key Features
+- ✅ Offline test creation and management  
+- ✅ Automated grading system  
+- ✅ Student performance analytics  
+- ✅ Question bank management  
+- ✅ Export results to Excel  
 
 ---
 
