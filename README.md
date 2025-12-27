@@ -181,8 +181,17 @@ const siphelele = {
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Siphelele-Maphumulo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF&ring_color=FF6B35" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Siphelele-Maphumulo&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=00D4FF" alt="GitHub Streak" />
+<img 
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUcAAACaCAMAAAANQHocAAAAz1BMVEX////s8PEsxW0q..."
+  alt="GitHub Stats"
+  width="49%"
+/>
+
+<img
+  src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQHBhUSBxMVFhUXFhkb..."
+  alt="GitHub Streak Stats"
+  width="49%"
+/>
 
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Siphelele-Maphumulo&bg_color=0D1117&color=00D4FF&line=FF6B35&point=00D4FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
@@ -198,7 +207,6 @@ const siphelele = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siphelele-Maphumulo&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews,MultiLanguage"/>
 
 <!-- Achievement Badges -->
 <p>
