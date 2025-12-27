@@ -188,7 +188,7 @@ const siphelele = {
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Siphelele-Maphumulo&bg_color=0D1117&color=00D4FF&line=FF6B35&point=00D4FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 <!-- Most Used Languages -->
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siphelele-Maphumulo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=12" alt="Top Languages" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siphelele-Maphumulo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=12" />
 
 </div>
 
@@ -198,7 +198,7 @@ const siphelele = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siphelele-Maphumulo&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews,MultiLanguage" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Siphelele-Maphumulo&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews,MultiLanguage"/>
 
 <!-- Achievement Badges -->
 <p>
