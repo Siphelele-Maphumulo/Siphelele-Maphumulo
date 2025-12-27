@@ -251,7 +251,7 @@ const siphelele = {
 <div align="center">
 
 ### 🌟 Coding Made Easy (Code SA Institute)
-  <a href="https://github.com/Siphelele-Maphumulo" target="_blank" rel="noopener noreferrer">
+  <a href="https://codingmadeeasy.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/refs/heads/main/assets/Code%20SA.png"
        width="700" alt="GitHub Contribution"/>
   </a>
