@@ -197,61 +197,6 @@ const siphelele = {
 
 <div align="center">
 
-
-<!-- Achievement Badges -->
-<p>
-  <img src="https://img.shields.io/badge/🏆_Vice_Chancellor's_Award-2023-gold?style=for-the-badge" alt="Award"/>
-  <img src="https://img.shields.io/badge/🥇_Cum_Laude_Graduate-2023-success?style=for-the-badge" alt="Graduate"/>
-  <img src="https://img.shields.io/badge/👨‍🏫_200+_Students_Mentored-Teaching-blue?style=for-the-badge" alt="Mentoring"/>
-  <img src="https://img.shields.io/badge/⭐_Tutor_of_the_Month-Excellence-blueviolet?style=for-the-badge" alt="Tutor"/>
-</p>
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-### 🎯 Academic Excellence
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🏆_Advanced_Diploma-ICT_Application_Development-00D4FF?style=for-the-badge" alt="Diploma"/><br/>
-<b>Mangosuthu University of Technology</b><br/>
-2023 | Vice Chancellor's Award Winner 🥇
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🎓_Diploma-Software_Development-FF6B35?style=for-the-badge" alt="Diploma"/><br/>
-<b>Mangosuthu University of Technology</b><br/>
-2019-2022 | Graduated Cum Laude 🏅
-</td>
-</tr>
-</table>
-
-### 📜 Professional Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Python_Institute-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/IBM_Cloud-Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GitHub-Professional-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Coursera-Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
-</p>
-
-</div>
-
----
-
-## 🚀 Featured Projects: Building Real-World Solutions
-
-<div align="center">
-
 ### 🌟 Coding Made Easy (Code SA Institute)
 
 <!-- Clickable Project Image -->
@@ -307,6 +252,60 @@ Empowering learners across South Africa with industry-relevant digital skills th
 
 ---
 
+
+<!-- Achievement Badges -->
+<p>
+  <img src="https://img.shields.io/badge/🏆_Vice_Chancellor's_Award-2023-gold?style=for-the-badge" alt="Award"/>
+  <img src="https://img.shields.io/badge/🥇_Cum_Laude_Graduate-2023-success?style=for-the-badge" alt="Graduate"/>
+  <img src="https://img.shields.io/badge/👨‍🏫_200+_Students_Mentored-Teaching-blue?style=for-the-badge" alt="Mentoring"/>
+  <img src="https://img.shields.io/badge/⭐_Tutor_of_the_Month-Excellence-blueviolet?style=for-the-badge" alt="Tutor"/>
+</p>
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+### 🎯 Academic Excellence
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🏆_Advanced_Diploma-ICT_Application_Development-00D4FF?style=for-the-badge" alt="Diploma"/><br/>
+<b>Mangosuthu University of Technology</b><br/>
+2023 | Vice Chancellor's Award Winner 🥇
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🎓_Diploma-Software_Development-FF6B35?style=for-the-badge" alt="Diploma"/><br/>
+<b>Mangosuthu University of Technology</b><br/>
+2019-2022 | Graduated Cum Laude 🏅
+</td>
+</tr>
+</table>
+
+### 📜 Professional Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Python_Institute-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/IBM_Cloud-Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GitHub-Professional-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Coursera-Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
+</p>
+
+</div>
+
+---
+
+## 🚀 Featured Projects: Building Real-World Solutions
+
+<div align="center">
 
 
 ### 🌟 Online Testing Web Application
