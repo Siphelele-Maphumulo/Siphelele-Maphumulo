@@ -253,7 +253,7 @@ const siphelele = {
 ### 🌟 Coding Made Easy (Code SA Institute)
   <a href="https://github.com/Siphelele-Maphumulo" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/refs/heads/main/assets/Code%20SA.png"
-         alt="GitHub Contribution"/>
+       width="700" alt="GitHub Contribution"/>
   </a>
 <p align="center">
      
