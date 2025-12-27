@@ -282,13 +282,30 @@ const siphelele = {
 
 ### 💼 Virtual Incubation Web Platform
 
-<img src="https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/incubation.png?raw=true" width="700px" alt="Virtual Incubation"/>
+<!-- Clickable Image (Opens Live Demo in New Tab) -->
+<a href="https://virtualincubation.infinityfreeapp.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/incubation.png?raw=true"
+       width="700"
+       alt="Virtual Incubation Web Platform – Live Demo"/>
+</a>
 
-**🎯 Mission:** Empowering entrepreneurs with a comprehensive business support ecosystem
+---
 
-**💡 Impact:** Connected 150+ entrepreneurs with mentors, funding opportunities, and resources
+### 🚀 Live Demo
+👉 **Visit the live application:**  
+🔗 https://virtualincubation.infinityfreeapp.com
 
-**🛠️ Tech Stack:**
+---
+
+**🎯 Mission:**  
+Empowering entrepreneurs with a comprehensive business support ecosystem.
+
+**💡 Impact:**  
+Connected **150+ entrepreneurs** with mentors, funding opportunities, and resources.
+
+---
+
+### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -297,14 +314,25 @@ const siphelele = {
   <img src="https://img.shields.io/badge/AJAX-005571?style=flat-square" alt="AJAX"/>
 </p>
 
-**✨ Key Features:**
-- ✅ Business registration portal
-- ✅ Funding application system
-- ✅ Mentor matching algorithm
-- ✅ Resource library
-- ✅ Progress tracking dashboard
+---
+
+### ✨ Key Features
+- ✅ Business registration portal  
+- ✅ Funding application system  
+- ✅ Mentor matching algorithm  
+- ✅ Resource library  
+- ✅ Progress tracking dashboard  
 
 ---
+<p align="center">
+  <a href="https://virtualincubation.infinityfreeapp.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00D4FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Siphelele-Maphumulo/VIRTUAL-INCUBATION" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
 
 ### 📱 Umlazi Discount Hardware Mobile App
 
