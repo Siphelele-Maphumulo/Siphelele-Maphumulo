@@ -252,6 +252,63 @@ const siphelele = {
 
 <div align="center">
 
+### 🌟 Coding Made Easy (Code SA Institute)
+
+<!-- Clickable Project Image -->
+<a href="https://codingmadeeasy.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/Online-Test-Web-Application/refs/heads/main/Screenshot.png"
+       width="700"
+       alt="Coding Made Easy – Live Website"/>
+</a>
+
+---
+
+### 🚀 Live Website & Source Code
+
+<p align="center">
+  <a href="https://codingmadeeasy.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🚀_Live_Website-Visit_Now-00D4FF?style=for-the-badge"
+         alt="Live Website"/>
+  </a>
+  <a href="https://github.com/Siphelele-Maphumulo" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/refs/heads/main/assets/Code%20SA.png"
+         alt="GitHub Contribution"/>
+  </a>
+</p>
+
+---
+
+**🎯 Mission:**  
+To broaden the minds and thought processes of learners through technology education, positively shaping their perspectives and future opportunities.
+
+**💡 Impact:**  
+Empowering learners across South Africa with industry-relevant digital skills through internationally accredited technology programs.
+
+---
+
+### 🛠️ Platform & Technology
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=godaddy&logoColor=black" alt="GoDaddy"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+---
+
+### ✨ Programs Offered
+- ✅ Coding (Foundational to Advanced)
+- ✅ Robotics
+- ✅ Artificial Intelligence
+- ✅ SAQA-aligned curriculum
+- ✅ MICT SETA accredited programs
+- ✅ Internationally licensed learning content
+
+---
+
+
+
 ### 🌟 Online Testing Web Application
 
 <!-- Clickable Project Image -->
