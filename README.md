@@ -180,19 +180,6 @@ const siphelele = {
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<img 
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUcAAACaCAMAAAANQHocAAAAz1BMVEX////s8PEsxW0q..."
-  alt="GitHub Stats"
-  width="49%"
-/>
-
-<img
-  src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQHBhUSBxMVFhUXFhkb..."
-  alt="GitHub Streak Stats"
-  width="49%"
-/>
-
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Siphelele-Maphumulo&bg_color=0D1117&color=00D4FF&line=FF6B35&point=00D4FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
