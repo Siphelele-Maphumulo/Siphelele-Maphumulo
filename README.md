@@ -255,7 +255,7 @@ const siphelele = {
 ### 🌟 Online Testing Web Application
 
 <!-- Clickable Project Image -->
-<a href="https://online-test-web-application-7mu3.onrender.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://environmental-health-wil-frontend.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/Online-Test-Web-Application/refs/heads/main/Screenshot.png"
        width="700"
        alt="Online Testing Web Application – Live Demo"/>
@@ -266,7 +266,7 @@ const siphelele = {
 ### 🚀 Live Demo & Source Code
 
 <p align="center">
-  <a href="https://online-test-web-application-7mu3.onrender.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://environmental-health-wil-frontend.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00D4FF?style=for-the-badge"
          alt="Live Demo"/>
   </a>
