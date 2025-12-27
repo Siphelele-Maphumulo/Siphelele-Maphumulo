@@ -11,8 +11,8 @@
 
 <!-- Animated GIF -->
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-     width="400"
-     height="500"
+     width="500"
+     height="300"
      alt="Auto-playing Coding Animation" />
 
 
@@ -338,14 +338,39 @@ Connected **150+ entrepreneurs** with mentors, funding opportunities, and resour
 
 ### 📱 Umlazi Discount Hardware Mobile App
 
-<img src="https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/hardware-preview.png?raw=true" width="250px" alt="Hardware App"/>
+<!-- Clickable Project Image -->
+<a href="https://online-test-web-application-7mu3.onrender.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/hardware-preview.png?raw=true"
+       width="250"
+       alt="Umlazi Discount Hardware Mobile App – Live Demo"/>
+</a>
 
+---
 
-**🎯 Mission:** Transforming local retail with a seamless mobile commerce experience
+### 🚀 Live Demo & Source Code
 
-**💡 Impact:** Increased customer engagement by 300% and streamlined order processing
+<p align="center">
+  <a href="https://online-test-web-application-7mu3.onrender.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00D4FF?style=for-the-badge"
+         alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Siphelele-Maphumulo" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"
+         alt="Source Code"/>
+  </a>
+</p>
 
-**🛠️ Tech Stack:**
+---
+
+**🎯 Mission:**  
+Transforming local retail with a seamless mobile commerce experience.
+
+**💡 Impact:**  
+Increased customer engagement by **300%** and streamlined order processing.
+
+---
+
+### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic"/>
@@ -354,14 +379,17 @@ Connected **150+ entrepreneurs** with mentors, funding opportunities, and resour
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/>
 </p>
 
-**✨ Key Features:**
-- ✅ Real-time inventory management
-- ✅ Push notifications
-- ✅ Offline mode capabilities
-- ✅ Order tracking system
-- ✅ Customer loyalty program
+---
 
-</div>
+### ✨ Key Features
+- ✅ Real-time inventory management  
+- ✅ Push notifications  
+- ✅ Offline mode capabilities  
+- ✅ Order tracking system  
+- ✅ Customer loyalty program  
+
+---
+
 
 ---
 
