@@ -278,7 +278,7 @@ const siphelele = {
 
 ---
 
-</div>
+
 
 **🎯 Mission:**  
 Revolutionizing education in rural schools with an offline-capable testing platform.
@@ -491,6 +491,8 @@ Increased customer engagement by **300%** and streamlined order processing.
 
 
 ---
+
+</div>
 
 ## 🎯 What Makes Me Different
 
