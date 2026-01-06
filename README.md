@@ -585,56 +585,6 @@ Increased customer engagement by **300%** and streamlined order processing.
 
 ---
 
-## 🌟 Core Competencies
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Siphelele<br/>Maphumulo))
-    Technical Skills
-      Frontend Development
-        React/Vue/Angular
-        Responsive Design
-        UI/UX
-      Backend Development
-        Node.js/Python/Java
-        API Design
-        Microservices
-      Database Management
-        SQL/NoSQL
-        Optimization
-        Migration
-      DevOps
-        CI/CD
-        Docker/K8s
-        Cloud Services
-    Soft Skills
-      Leadership
-        Team Management
-        Mentoring
-        Decision Making
-      Communication
-        Technical Writing
-        Presentations
-        Stakeholder Management
-      Problem Solving
-        Critical Thinking
-        Innovation
-        Debugging
-    Education
-      Academic Excellence
-        Cum Laude Graduate
-        Vice Chancellor Award
-      Certifications
-        AWS/Python/Cisco
-        GitHub Professional
-```
-
-</div>
-
----
-
 ## 📚 Latest Blog Posts & Articles
 
 <div align="center">
@@ -753,7 +703,7 @@ If you find my projects helpful or inspiring, please consider:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-**Built with 💙 by Siphelele Maphumulo** | **© 2024**
+**Built with 💙 by Siphelele Maphumulo** | **© 2026**
 
 <sub>⚡ Powered by passion, fueled by coffee, driven by innovation ⚡</sub>
 
@@ -811,13 +761,7 @@ VS Code                  81 hrs 26 mins      ███████████�
 Windows                     24 hrs 13 mins      ████████████████████████░   95.21 % 
 Mac                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 ```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
-
-
- Last Updated on 26/12/2025 18:52:36 UTC
+ Last Updated on 06/01/2026 18:52:36 UTC
 <!--END_SECTION:waka-->
 
 <hr>
