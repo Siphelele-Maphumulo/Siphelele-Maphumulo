@@ -57,7 +57,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Tracking+Every+Line+of+Code;⚡+Hackatime+%26+CodeTime+Powered;📊+Languages,+Projects,+and+More!)](https://git.io/typing-svg)
 
 <!-- Hackatime Stats -->
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7078&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon" alt="Hackatime Stats" width="650"  alt="Auto-playing stats" />
+<img
+  src="https://github-readme-stats.hackclub.dev/api/wakatime?username=Mabhelan&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon"
+  alt="Hackatime Stats"
+  width="650"
+/>
+
 
 <!-- Hackatime Badge -->
 <br>
