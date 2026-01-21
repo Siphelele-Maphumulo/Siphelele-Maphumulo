@@ -714,19 +714,6 @@ If you find my projects helpful or inspiring, please consider:
 
 </div>
 
-**🐱 My GitHub Data** 
-
-> 📦 127.6 kB Used in GitHub's Storage 
- > 
-> 🏆 50 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-
 <!-- ===== Replace the current "🐱 My GitHub Data" block with one of the variants below ===== -->
 
 ## 🐱 My GitHub Data (Recommended — Clean + Badges)
@@ -735,21 +722,9 @@ If you find my projects helpful or inspiring, please consider:
   <img src="https://img.shields.io/badge/Storage-127.6KB-7B61FF?style=for-the-badge" alt="Storage" />
   <img src="https://img.shields.io/badge/Contributions-50-00D4FF?style=for-the-badge" alt="Contributions" />
   <img src="https://img.shields.io/badge/Public%20Repos-24-FF6B35?style=for-the-badge" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/Private%20Repos-7-FFD700?style=for-the-badge" alt="Private Repos" />
-  <img src="https://img.shields.io/badge/Open%20to%20Hire-No-181717?style=for-the-badge" alt="Open to Hire" />
-</p>
+  <img src="https://img.shields.io/badge/Private%20Repos-20-FFD700?style=for-the-badge" alt="Private Repos" />
+  <img src="https://img.shields.io/badge/Open%20to%20Hire-Yes-181717?style=for-the-badge" alt="Open to Hire" />
 
-| Metric | Value |
-|---|---:|
-| 📦 Storage used | 127.6 kB |
-| 🏆 Contributions (2025) | 50 |
-| 🚫 Open to hire | No |
-| 📜 Public repositories | 24 |
-| 🔑 Private repositories | 7 |
-| 🕑 Time zone | Africa/Johannesburg |
-| ⏱ Last updated | 2026-01-06 18:52:36 UTC |
-
----
 
 ### ⏰ Activity by time of day (commits)
 - 🌞 Morning — 20 commits (6.16%)
@@ -757,47 +732,10 @@ If you find my projects helpful or inspiring, please consider:
 - 🌃 Evening — 363 commits (60.40%)
 - 🌙 Night — 68 commits (11.31%)
 
-### 📅 Activity by weekday
-| Day | Commits | Share |
-|---|---:|---:|
-| Monday | 9 | 14.98% |
-| Tuesday | 89 | 14.81% |
-| Wednesday | 11 | 18.47% |
-| Thursday | 8 | 13.64% |
-| Friday | 65 | 10.82% |
-| Saturday | 19 | 18.14% |
-| Sunday | 55 | 9.15% |
-
-### 💬 Top languages (by tracked time)
-| Language | Time tracked | Share |
-|---|---:|---:|
-| TypeScript | 52 hrs 11 mins | 71.50% |
-| Markdown | 15 hrs 12 mins | 20.47% |
-| HTML | 18 hrs 2 mins | 4.10% |
-| JavaScript | 30 hrs 24 mins | 1.62% |
-| JSON | 15 mins | 0.99% |
-
 ### 🔥 Editor & OS
 - Editor: **VS Code** — 81 hrs 26 mins (100%)
 - OS: **Windows** 24 hrs 13 mins (95.21%) • **Mac** 1 hr 13 mins (4.79%)
 
----
-
-<!-- ===== Alternative 1: Compact table-only style ===== -->
-
-## 🐱 My GitHub Data (Compact table)
-
-| Metric | Value |
-|---|---:|
-| Storage | 127.6 kB |
-| Contributions (2025) | 50 |
-| Open to hire | No |
-| Public repos | 24 |
-| Private repos | 7 |
-| Time zone | Africa/Johannesburg |
-| Last updated | 2026-01-06 18:52:36 UTC |
-
----
 
 <!-- ===== Alternative 2: Badge + Inline progress badges (visual) ===== -->
 
@@ -807,7 +745,7 @@ If you find my projects helpful or inspiring, please consider:
   <img src="https://img.shields.io/badge/Storage-127.6KB-7B61FF?style=for-the-badge" alt="Storage" />
   <img src="https://img.shields.io/badge/Contributions-50-00D4FF?style=for-the-badge" alt="Contributions" />
   <img src="https://img.shields.io/badge/Public%20Repos-24-FF6B35?style=for-the-badge" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/Open%20to%20Hire-No-181717?style=for-the-badge" alt="Open to Hire" />
+  <img src="https://img.shields.io/badge/Open%20to%20Hire-Yes-181717?style=for-the-badge" alt="Open to Hire" />
 </p>
 
 **Activity (time of day)**  
@@ -824,7 +762,7 @@ If you find my projects helpful or inspiring, please consider:
 ---
 
 <!-- ===== End of replaceable block ===== -->
-
+</p>
 
 <hr>
 
