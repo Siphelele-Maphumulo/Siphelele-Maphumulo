@@ -77,42 +77,42 @@
 
 ## 🎯 About Me: From Waiter to Award-Winning Developer
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
+##<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
 
-```typescript
-const siphelele = {
-  title: "Full-Stack Developer & Tech Educator",
-  location: "📍 Durban, South Africa",
-  status: "🚀 Building Tomorrow's Solutions Today",
+##```typescript
+##const siphelele = {
+##  title: "Full-Stack Developer & Tech Educator",
+##  location: "📍 Durban, South Africa",
+## status: "🚀 Building Tomorrow's Solutions Today",
   
-  achievements: [
-    "🏆 Vice Chancellor's Award Winner",
-    "🥇 #1 Academic Achiever - Faculty of Natural Sciences",
-    "🎓 Graduated Cum Laude",
-    "⭐ 200+ Students Mentored"
-  ],
+##  achievements: [
+##    "🏆 Vice Chancellor's Award Winner",
+##    "🥇 #1 Academic Achiever - Faculty of Natural Sciences",
+ ##   "🎓 Graduated Cum Laude",
+ ##   "⭐ 200+ Students Mentored"
+##  ],
   
-  mindset: {
-    motivation: "Transforming challenges into opportunities",
-    passion: "Creating innovative solutions that matter",
-    drive: "Continuous learning and excellence",
-    goal: "Empowering communities through technology"
-  },
+##  mindset: {
+ ##   motivation: "Transforming challenges into opportunities",
+ ##   passion: "Creating innovative solutions that matter",
+ ##   drive: "Continuous learning and excellence",
+ ##   goal: "Empowering communities through technology"
+##  },
+##  
+##  currentFocus: [
+##    "Building scalable web applications",
+##    "Teaching next-gen developers",
+##    "Contributing to open source",
+##    "Exploring AI & Machine Learning"
+##  ],
   
-  currentFocus: [
-    "Building scalable web applications",
-    "Teaching next-gen developers",
-    "Contributing to open source",
-    "Exploring AI & Machine Learning"
-  ],
-  
-  funFact: "Started university while working as a waiter to fund my education 💪"
-};
-```
+##  funFact: "Started university while working as a waiter to fund my education 💪"
+##};
+##```
 
-<br clear="right"/>
+##<br clear="right"/>
 
----
+##---
 
 ## 🛠️ Tech Arsenal: My Digital Toolbox
 
