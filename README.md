@@ -493,19 +493,6 @@ If you find my projects helpful or inspiring, please consider:
   <img src="https://img.shields.io/badge/Open%20to%20Hire-Yes-181717?style=for-the-badge" alt="Open to Hire" />
 
 
-### ⏰ Activity by time of day (commits)
-- 🌞 Morning — 20 commits (6.16%)
-- 🌆 Daytime — 133 commits (22.13%)
-- 🌃 Evening — 363 commits (60.40%)
-- 🌙 Night — 68 commits (11.31%)
-
-### 🔥 Editor & OS
-- Editor: **VS Code** — 81 hrs 26 mins (100%)
-- OS: **Windows** 24 hrs 13 mins (95.21%) • **Mac** 1 hr 13 mins (4.79%)
-
-
-<!-- ===== Alternative 2: Badge + Inline progress badges (visual) ===== -->
-
 ## 🐱 My GitHub Data (Visual badges)
 
 <p align="center">
