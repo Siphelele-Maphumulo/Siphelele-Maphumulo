@@ -267,7 +267,7 @@ Empowering learners across South Africa with industry-relevant digital skills th
 <!-- Clickable Project Image -->
 <a href="https://online-test-web-application-7mu3.onrender.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/Siphelele-Maphumulo/Senior_Portfolio/blob/main/assets/images/project/hardware.png?raw=true"
-       width="700"
+       width="350"; height="400"
        alt="Online Testing Web Application – Live Demo"/>
 </a>
 
