@@ -216,7 +216,7 @@
 
 ### 🌟 Coding Made Easy (Code SA Institute)
   <a href="https://codingmadeeasy.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/refs/heads/main/assets/Code%20SA.png"
+    <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/refs/heads/main/assets/Projects/4.png"
        width="700" alt="GitHub Contribution"/>
   </a>
 <p align="center">
