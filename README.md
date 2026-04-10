@@ -322,7 +322,7 @@ Empowering teachers to create, manage, and deploy tests seamlessly without inter
 ### 💼 Virtual Incubation Web Platform
 
 <!-- Clickable Project Image -->
-<a href="https://virtualincubation.infinityfreeapp.com" target="_blank" rel="noopener noreferrer">
+<a href="https://virtual-incubation-website.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/refs/heads/main/assets/Projects/19.png"
        width="700"
        alt="Virtual Incubation Web Platform – Live Demo"/>
@@ -333,7 +333,7 @@ Empowering teachers to create, manage, and deploy tests seamlessly without inter
 ### 🚀 Live Demo & Source Code
 
 <p align="center">
-  <a href="https://virtualincubation.infinityfreeapp.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://virtual-incubation-website.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00D4FF?style=for-the-badge"
          alt="Live Demo"/>
   </a>
