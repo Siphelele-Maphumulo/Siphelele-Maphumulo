@@ -323,7 +323,7 @@ Empowering teachers to create, manage, and deploy tests seamlessly without inter
 
 <!-- Clickable Project Image -->
 <a href="https://virtualincubation.infinityfreeapp.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/assets/incubation.png?raw=true"
+  <img src="https://raw.githubusercontent.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/refs/heads/main/assets/Projects/19.png"
        width="700"
        alt="Virtual Incubation Web Platform – Live Demo"/>
 </a>
