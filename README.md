@@ -483,7 +483,7 @@ If you find my projects helpful or inspiring, please consider:
 
 <!-- ===== Replace the current "🐱 My GitHub Data" block with one of the variants below ===== -->
 
-## 🐱 My GitHub Data (Recommended — Clean + Badges)
+## 🐱 My GitHub Data
 
 <p align="center">
   <img src="https://img.shields.io/badge/Storage-127.6KB-7B61FF?style=for-the-badge" alt="Storage" />
@@ -492,15 +492,6 @@ If you find my projects helpful or inspiring, please consider:
   <img src="https://img.shields.io/badge/Private%20Repos-20-FFD700?style=for-the-badge" alt="Private Repos" />
   <img src="https://img.shields.io/badge/Open%20to%20Hire-Yes-181717?style=for-the-badge" alt="Open to Hire" />
 
-
-## 🐱 My GitHub Data (Visual badges)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Storage-127.6KB-7B61FF?style=for-the-badge" alt="Storage" />
-  <img src="https://img.shields.io/badge/Contributions-50-00D4FF?style=for-the-badge" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Public%20Repos-24-FF6B35?style=for-the-badge" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/Open%20to%20Hire-Yes-181717?style=for-the-badge" alt="Open to Hire" />
-</p>
 
 **Activity (time of day)**  
 <img src="https://img.shields.io/badge/Morning-6.16%25-lightgrey?style=flat-square&logo=" alt="Morning" /> 
